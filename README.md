@@ -7,7 +7,7 @@
 
 This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries. The goal is to showcase skills in database design, manipulation, and querying.
 
-![plot](C:\Users\DELL\Desktop\SQL_PROJECTS\Project2_Library_Management_System\library.jpg)
+[![plot](C:\Users\DELL\Desktop\SQL_PROJECTS\Project2_Library_Management_System\library.jpg)](https://github.com/AMOL48/sql_library_management_system_p2/blob/main/library.jpg)
 
 ## Objectives
 
@@ -20,7 +20,7 @@ This project demonstrates the implementation of a Library Management System usin
 
 ### 1. Database Setup
 
-![plot](C:\Users\DELL\Desktop\SQL_PROJECTS\Project2_Library_Management_System\schemas.pgerd.png)
+[![plot](C:\Users\DELL\Desktop\SQL_PROJECTS\Project2_Library_Management_System\schemas.pgerd.png)](https://github.com/AMOL48/sql_library_management_system_p2/blob/main/schemas.pgerd.png)
 
 - **Database Creation**: Created a database named `library_mng_sys_p2`.
 - **Table Creation**: Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
@@ -529,6 +529,6 @@ CALL issue_book('IS156', 'C108', '978-0-375-41398-8', 'E104');
 
 ## Conclusion
 
-This project demonstrates the application of SQL skills in creating and managing a library management system. It includes database setup, data manipulation, and advanced querying, providing a solid foundation for data management and analysis.
+This project demonstrates the application of my SQL skills in creating and managing a library management system. It includes database setup, data manipulation, and advanced querying, providing a solid foundation for data management and analysis.
 
 Thank you!
